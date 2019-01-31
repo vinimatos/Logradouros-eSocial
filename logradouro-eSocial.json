@@ -1,0 +1,714 @@
+[
+    {
+        "codigo": "A",
+        "descricao": "Área"
+    },
+    {
+        "codigo": "AC",
+        "descricao": "Acesso"
+    },
+    {
+        "codigo": "ACA",
+        "descricao": "Acampamento"
+    },
+    {
+        "codigo": "ACL",
+        "descricao": "Acesso Local"
+    },
+    {
+        "codigo": "AD",
+        "descricao": "Adro"
+    },
+    {
+        "codigo": "AE",
+        "descricao": "Área Especial"
+    },
+    {
+        "codigo": "AER",
+        "descricao": "Aeroporto"
+    },
+    {
+        "codigo": "AL",
+        "descricao": "Alameda"
+    },
+    {
+        "codigo": "AMD",
+        "descricao": "Avenida Marginal Direita"
+    },
+    {
+        "codigo": "AME",
+        "descricao": "Avenida Marginal Esquerda"
+    },
+    {
+        "codigo": "AN",
+        "descricao": "Anel Viário"
+    },
+    {
+        "codigo": "ANT",
+        "descricao": "Antiga Estrada"
+    },
+    {
+        "codigo": "ART",
+        "descricao": "Artéria"
+    },
+    {
+        "codigo": "AT",
+        "descricao": "Alto"
+    },
+    {
+        "codigo": "ATL",
+        "descricao": "Atalho"
+    },
+    {
+        "codigo": "A V",
+        "descricao": "Área Verde"
+    },
+    {
+        "codigo": "AV",
+        "descricao": "Avenida"
+    },
+    {
+        "codigo": "AVC",
+        "descricao": "Avenida Contorno"
+    },
+    {
+        "codigo": "AVM",
+        "descricao": "Avenida Marginal"
+    },
+    {
+        "codigo": "AVV",
+        "descricao": "Avenida Velha"
+    },
+    {
+        "codigo": "BAL",
+        "descricao": "Balneário"
+    },
+    {
+        "codigo": "BC",
+        "descricao": "Beco"
+    },
+    {
+        "codigo": "BCO",
+        "descricao": "Buraco"
+    },
+    {
+        "codigo": "BEL",
+        "descricao": "Belvedere"
+    },
+    {
+        "codigo": "BL",
+        "descricao": "Bloco"
+    },
+    {
+        "codigo": "BLO",
+        "descricao": "Balão"
+    },
+    {
+        "codigo": "BLS",
+        "descricao": "Blocos"
+    },
+    {
+        "codigo": "BLV",
+        "descricao": "Bulevar"
+    },
+    {
+        "codigo": "BSQ",
+        "descricao": "Bosque"
+    },
+    {
+        "codigo": "BVD",
+        "descricao": "Boulevard"
+    },
+    {
+        "codigo": "BX",
+        "descricao": "Baixa"
+    },
+    {
+        "codigo": "C",
+        "descricao": "Cais"
+    },
+    {
+        "codigo": "CAL",
+        "descricao": "Calçada"
+    },
+    {
+        "codigo": "CAM",
+        "descricao": "Caminho"
+    },
+    {
+        "codigo": "CAN",
+        "descricao": "Canal"
+    },
+    {
+        "codigo": "CH",
+        "descricao": "Chácara"
+    },
+    {
+        "codigo": "CHA",
+        "descricao": "Chapadão"
+    },
+    {
+        "codigo": "CIC",
+        "descricao": "Ciclovia"
+    },
+    {
+        "codigo": "CIR",
+        "descricao": "Circular"
+    },
+    {
+        "codigo": "CJ",
+        "descricao": "Conjunto"
+    },
+    {
+        "codigo": "CJM",
+        "descricao": "Conjunto Mutirão"
+    },
+    {
+        "codigo": "CMP",
+        "descricao": "Complexo Viário"
+    },
+    {
+        "codigo": "COL",
+        "descricao": "Colônia"
+    },
+    {
+        "codigo": "COM",
+        "descricao": "Comunidade"
+    },
+    {
+        "codigo": "CON",
+        "descricao": "Condomínio"
+    },
+    {
+        "codigo": "COR",
+        "descricao": "Corredor"
+    },
+    {
+        "codigo": "CPO",
+        "descricao": "Campo"
+    },
+    {
+        "codigo": "CRG",
+        "descricao": "Córrego"
+    },
+    {
+        "codigo": "CTN",
+        "descricao": "Contorno"
+    },
+    {
+        "codigo": "DSC",
+        "descricao": "Descida"
+    },
+    {
+        "codigo": "DSV",
+        "descricao": "Desvio"
+    },
+    {
+        "codigo": "DT",
+        "descricao": "Distrito"
+    },
+    {
+        "codigo": "EB",
+        "descricao": "Entre Bloco"
+    },
+    {
+        "codigo": "EIM",
+        "descricao": "Estrada Intermunicipal"
+    },
+    {
+        "codigo": "ENS",
+        "descricao": "Enseada"
+    },
+    {
+        "codigo": "ENT",
+        "descricao": "Entrada Particular"
+    },
+    {
+        "codigo": "EQ",
+        "descricao": "Entre Quadra"
+    },
+    {
+        "codigo": "ESC",
+        "descricao": "Escada"
+    },
+    {
+        "codigo": "ESD",
+        "descricao": "Escadaria"
+    },
+    {
+        "codigo": "ESE",
+        "descricao": "Estrada Estadual"
+    },
+    {
+        "codigo": "ESI",
+        "descricao": "Estrada Vicinal"
+    },
+    {
+        "codigo": "ESL",
+        "descricao": "Estrada de Ligação"
+    },
+    {
+        "codigo": "ESM",
+        "descricao": "Estrada Municipal"
+    },
+    {
+        "codigo": "ESP",
+        "descricao": "Esplanada"
+    },
+    {
+        "codigo": "ESS",
+        "descricao": "Estrada de Servidão"
+    },
+    {
+        "codigo": "EST",
+        "descricao": "Estrada"
+    },
+    {
+        "codigo": "ESV",
+        "descricao": "Estrada Velha"
+    },
+    {
+        "codigo": "ETA",
+        "descricao": "Estrada Antiga"
+    },
+    {
+        "codigo": "ETC",
+        "descricao": "Estação"
+    },
+    {
+        "codigo": "ETD",
+        "descricao": "Estádio"
+    },
+    {
+        "codigo": "ETN",
+        "descricao": "Estância"
+    },
+    {
+        "codigo": "ETP",
+        "descricao": "Estrada Particular"
+    },
+    {
+        "codigo": "ETT",
+        "descricao": "Estacionamento"
+    },
+    {
+        "codigo": "EVA",
+        "descricao": "Evangélica"
+    },
+    {
+        "codigo": "EVD",
+        "descricao": "Elevada"
+    },
+    {
+        "codigo": "EX",
+        "descricao": "Eixo Industrial"
+    },
+    {
+        "codigo": "FAV",
+        "descricao": "Favela"
+    },
+    {
+        "codigo": "FAZ",
+        "descricao": "Fazenda"
+    },
+    {
+        "codigo": "FER",
+        "descricao": "Ferrovia"
+    },
+    {
+        "codigo": "FNT",
+        "descricao": "Fonte"
+    },
+    {
+        "codigo": "FRA",
+        "descricao": "Feira"
+    },
+    {
+        "codigo": "FTE",
+        "descricao": "Forte"
+    },
+    {
+        "codigo": "GAL",
+        "descricao": "Galeria"
+    },
+    {
+        "codigo": "GJA",
+        "descricao": "Granja"
+    },
+    {
+        "codigo": "HAB",
+        "descricao": "Núcleo Habitacional"
+    },
+    {
+        "codigo": "IA",
+        "descricao": "Ilha"
+    },
+    {
+        "codigo": "IND",
+        "descricao": "Indeterminado"
+    },
+    {
+        "codigo": "IOA",
+        "descricao": "Ilhota"
+    },
+    {
+        "codigo": "JD",
+        "descricao": "Jardim"
+    },
+    {
+        "codigo": "JDE",
+        "descricao": "Jardinete"
+    },
+    {
+        "codigo": "LD",
+        "descricao": "Ladeira"
+    },
+    {
+        "codigo": "LGA",
+        "descricao": "Lagoa"
+    },
+    {
+        "codigo": "LGO",
+        "descricao": "Lago"
+    },
+    {
+        "codigo": "LOT",
+        "descricao": "Loteamento"
+    },
+    {
+        "codigo": "LRG",
+        "descricao": "Largo"
+    },
+    {
+        "codigo": "LT",
+        "descricao": "Lote"
+    },
+    {
+        "codigo": "MER",
+        "descricao": "Mercado"
+    },
+    {
+        "codigo": "MNA",
+        "descricao": "Marina"
+    },
+    {
+        "codigo": "MOD",
+        "descricao": "Modulo"
+    },
+    {
+        "codigo": "MRG",
+        "descricao": "Projeção"
+    },
+    {
+        "codigo": "MRO",
+        "descricao": "Morro"
+    },
+    {
+        "codigo": "MTE",
+        "descricao": "Monte"
+    },
+    {
+        "codigo": "NUC",
+        "descricao": "Núcleo"
+    },
+    {
+        "codigo": "NUR",
+        "descricao": "Núcleo Rural"
+    },
+    {
+        "codigo": "OUT",
+        "descricao": "Outeiro"
+    },
+    {
+        "codigo": "PAR",
+        "descricao": "Paralela"
+    },
+    {
+        "codigo": "PAS",
+        "descricao": "Passeio"
+    },
+    {
+        "codigo": "PAT",
+        "descricao": "Pátio"
+    },
+    {
+        "codigo": "PC",
+        "descricao": "Praça"
+    },
+    {
+        "codigo": "PCE",
+        "descricao": "Praça de Esportes"
+    },
+    {
+        "codigo": "PDA",
+        "descricao": "Parada"
+    },
+    {
+        "codigo": "PDO",
+        "descricao": "Paradouro"
+    },
+    {
+        "codigo": "PNT",
+        "descricao": "Ponta"
+    },
+    {
+        "codigo": "PR",
+        "descricao": "Praia"
+    },
+    {
+        "codigo": "PRL",
+        "descricao": "Prolongamento"
+    },
+    {
+        "codigo": "PRM",
+        "descricao": "Parque Municipal"
+    },
+    {
+        "codigo": "PRQ",
+        "descricao": "Parque"
+    },
+    {
+        "codigo": "PRR",
+        "descricao": "Parque Residencial"
+    },
+    {
+        "codigo": "PSA",
+        "descricao": "Passarela"
+    },
+    {
+        "codigo": "PSG",
+        "descricao": "Passagem"
+    },
+    {
+        "codigo": "PSP",
+        "descricao": "Passagem de Pedestre"
+    },
+    {
+        "codigo": "PSS",
+        "descricao": "Passagem Subterrânea"
+    },
+    {
+        "codigo": "PTE",
+        "descricao": "Ponte"
+    },
+    {
+        "codigo": "PTO",
+        "descricao": "Porto"
+    },
+    {
+        "codigo": "Q",
+        "descricao": "Quadra"
+    },
+    {
+        "codigo": "QTA",
+        "descricao": "Quinta"
+    },
+    {
+        "codigo": "QTS",
+        "descricao": "Quintas"
+    },
+    {
+        "codigo": "R",
+        "descricao": "Rua"
+    },
+    {
+        "codigo": "R I",
+        "descricao": "Rua Integração"
+    },
+    {
+        "codigo": "R L",
+        "descricao": "Rua de Ligação"
+    },
+    {
+        "codigo": "R P",
+        "descricao": "Rua Particular"
+    },
+    {
+        "codigo": "R V",
+        "descricao": "Rua Velha"
+    },
+    {
+        "codigo": "RAM",
+        "descricao": "Ramal"
+    },
+    {
+        "codigo": "RCR",
+        "descricao": "Recreio"
+    },
+    {
+        "codigo": "REC",
+        "descricao": "Recanto"
+    },
+    {
+        "codigo": "RER",
+        "descricao": "Retiro"
+    },
+    {
+        "codigo": "RES",
+        "descricao": "Residencial"
+    },
+    {
+        "codigo": "RET",
+        "descricao": "Reta"
+    },
+    {
+        "codigo": "RLA",
+        "descricao": "Ruela"
+    },
+    {
+        "codigo": "RMP",
+        "descricao": "Rampa"
+    },
+    {
+        "codigo": "ROA",
+        "descricao": "Rodo Anel"
+    },
+    {
+        "codigo": "ROD",
+        "descricao": "Rodovia"
+    },
+    {
+        "codigo": "ROT",
+        "descricao": "Rotula"
+    },
+    {
+        "codigo": "RPE",
+        "descricao": "Rua de Pedestre"
+    },
+    {
+        "codigo": "RPR",
+        "descricao": "Margem"
+    },
+    {
+        "codigo": "RTN",
+        "descricao": "Retorno"
+    },
+    {
+        "codigo": "RTT",
+        "descricao": "Rotatória"
+    },
+    {
+        "codigo": "SEG",
+        "descricao": "Segunda Avenida"
+    },
+    {
+        "codigo": "SIT",
+        "descricao": "Sitio"
+    },
+    {
+        "codigo": "SRV",
+        "descricao": "Servidão"
+    },
+    {
+        "codigo": "ST",
+        "descricao": "Setor"
+    },
+    {
+        "codigo": "SUB",
+        "descricao": "Subida"
+    },
+    {
+        "codigo": "TCH",
+        "descricao": "Trincheira"
+    },
+    {
+        "codigo": "TER",
+        "descricao": "Terminal"
+    },
+    {
+        "codigo": "TR",
+        "descricao": "Trecho"
+    },
+    {
+        "codigo": "TRV",
+        "descricao": "Trevo"
+    },
+    {
+        "codigo": "TUN",
+        "descricao": "Túnel"
+    },
+    {
+        "codigo": "TV",
+        "descricao": "Travessa"
+    },
+    {
+        "codigo": "TVP",
+        "descricao": "Travessa Particular"
+    },
+    {
+        "codigo": "TVV",
+        "descricao": "Travessa Velha"
+    },
+    {
+        "codigo": "UNI",
+        "descricao": "Unidade"
+    },
+    {
+        "codigo": "V",
+        "descricao": "Via"
+    },
+    {
+        "codigo": "V C",
+        "descricao": "Via Coletora"
+    },
+    {
+        "codigo": "V L",
+        "descricao": "Via Local"
+    },
+    {
+        "codigo": "VAC",
+        "descricao": "Via de Acesso"
+    },
+    {
+        "codigo": "VAL",
+        "descricao": "Vala"
+    },
+    {
+        "codigo": "VCO",
+        "descricao": "Via Costeira"
+    },
+    {
+        "codigo": "VD",
+        "descricao": "Viaduto"
+    },
+    {
+        "codigo": "V-E",
+        "descricao": "Via Expressa"
+    },
+    {
+        "codigo": "VER",
+        "descricao": "Vereda"
+    },
+    {
+        "codigo": "VEV",
+        "descricao": "Via Elevado"
+    },
+    {
+        "codigo": "VL",
+        "descricao": "Vila"
+    },
+    {
+        "codigo": "VLA",
+        "descricao": "Viela"
+    },
+    {
+        "codigo": "VLE",
+        "descricao": "Vale"
+    },
+    {
+        "codigo": "VLT",
+        "descricao": "Via Litorânea"
+    },
+    {
+        "codigo": "VPE",
+        "descricao": "Via de Pedestre"
+    },
+    {
+        "codigo": "VRT",
+        "descricao": "Variante"
+    },
+    {
+        "codigo": "ZIG",
+        "descricao": "Zigue-Zague"
+    }
+]
